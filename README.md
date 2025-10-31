@@ -1,85 +1,66 @@
-# 👋 Hi, I'm Anand Goud  
-
-💻 **Full Stack Developer | MERN Stack | JavaScript | Node.js | React.js**  
-🚀 Passionate about building scalable, efficient, and user-friendly web applications  
-
----
-
-## 🧠 About Me  
-
-- 🎓 I’m a **B.Tech Graduate** with strong interest in **software development** and web technologies.  
-- 🌱 Currently learning and building projects using **MongoDB, Express.js, React, and Node.js (MERN Stack)**.  
-- 💡 I enjoy solving **real-world problems** through clean, efficient code.  
-- 🎯 My goal is to become a **skilled Software Engineer** capable of creating impactful digital solutions.  
-- 🎬 Besides coding, I create **educational content for kids** on YouTube to help them learn in fun ways.  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Anand Goud</h1>
+<h3 align="center">💻 Full Stack Developer | MERN Stack | Passionate Problem Solver</h3>
 
 ---
 
-## ⚙️ Tech Stack  
+### 👨‍💻 About Me
 
-**Frontend:**  
-React.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap, TailwindCSS  
-
-**Backend:**  
-Node.js, Express.js, REST APIs, JWT Authentication  
-
-**Database:**  
-MongoDB, SQLite, MySQL  
-
-**Tools & Platforms:**  
-Git, GitHub, Postman, VS Code, Linux (Ubuntu), Vite  
-
-**Others:**  
-TypeScript (beginner), Python (basics), Cloud Storage (GCP)  
+- 🎓 I'm a **B.Tech Graduate** passionate about creating impactful web applications.  
+- 🌱 Currently mastering the **MERN Stack (MongoDB, Express.js, React, Node.js)**.  
+- 🚀 I love learning new technologies and improving code efficiency.  
+- 💡 Focused on clean architecture, scalability, and best development practices.  
+- ✨ On a journey to become a **skilled Software Engineer**.  
+- 🎬 I also run a **YouTube channel** creating educational content for kids to make learning fun.  
 
 ---
 
-## 🧩 Featured Projects  
+### ⚙️ Tech Stack
 
-### 🩺 BabySteps Appointment Booking System  
-A full-stack application that enables users to book and manage appointments seamlessly.  
-- Built with **Node.js, Express, MongoDB, and React**  
-- Implemented time slot calculations and double-booking prevention  
-- Added a clean and user-friendly UI  
+#### 🖥️ Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
+</p>
 
-🔗 [View Repository](#)
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
----
+#### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
 
-### 🐄 Milch Digital System  
-A QR-based identification and tracking system for animals.  
-- Developed secure QR generation with **FastAPI and AES encryption**  
-- Integrated with Google Cloud Storage  
-- Designed optimized database models with **SQLAlchemy**  
+#### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+</p>
 
-🔗 [View Repository](#)
-
----
-
-### 🧮 FnMoney Full Stack Assignment  
-A finance management system for handling user data and transactions.  
-- Frontend: React (Class Components), Backend: Node.js + Express  
-- SQLite database integration  
-- RESTful APIs and authentication system  
-
-🔗 [View Repository](#)
+#### 🧠 Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,python,gcp" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats
 
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand95733&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand95733&layout=compact&theme=radical)  
-
----
-
-## 🌐 Connect With Me  
-
-📧 **Email:** anandgoud@example.com *(replace with your email)*  
-💼 **LinkedIn:** [linkedin.com/in/anandgoud](#)  
-📺 **YouTube:** [Zen Scholars](#)  
-🐙 **GitHub:** [github.com/Anand95733](https://github.com/Anand95733)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anand95733&show_icons=true&theme=radical" alt="Anand's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand95733&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
 
 ---
 
-⭐ *"Code with logic, create with purpose, and grow with curiosity."*  
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:goudanand19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anand-goud-8a6009293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Anand95733"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<h3 align="center">✨ “Code with purpose. Learn with passion. Grow with curiosity.” ✨</h3>
