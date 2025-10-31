@@ -1,70 +1,56 @@
-<!-- ✨ Animated Header Banner -->
+<!-- 🪩 Futuristic Header -->
 <p align="center">
-  <img src="https://github.com/Anand95733/Anand95733/blob/main/assets/header.gif" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Anand%20Goud%20⚡&fontAlign=50&fontAlignY=40&fontColor=fff&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Software%20Engineer&descAlign=50&descAlignY=65&descSize=16" alt="Header"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=FF5EDF&center=true&vCenter=true&width=600&lines=Hey+There+👋;+I'm+Anand+Goud!;Full+Stack+Developer;MERN+Stack+Engineer;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing Animation" />
-</h1>
-
+<!-- ✨ Typing Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome+to+my+GitHub+Universe!&fontAlign=50&fontAlignY=45&fontSize=20&height=60&descAlign=50&descAlignY=70&desc=&fontColor=fff"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=600&lines=Building+beautiful+web+experiences.;Engineering+ideas+into+reality.;Learning.+Creating.+Evolving." alt="Typing animation" />
 </p>
 
 ---
 
-### 🧠 About Me  
+### 💫 About Me  
 
-💫 Passionate **Full Stack Developer** skilled in crafting seamless digital experiences.  
-🚀 Constantly evolving in the **MERN Stack** ecosystem — bringing ideas to life through code.  
-🎯 Dedicated to clean architecture, scalability, and best practices.  
-🎓 **B.Tech Graduate**, committed to lifelong learning & innovation.  
-🎬 Creator of **educational YouTube content** to make learning more fun for kids.  
-💡 *“I believe technology should inspire, not intimidate.”*
+🌍 **B.Tech Graduate** passionate about shaping ideas into reality through technology.  
+🧠 Deeply focused on mastering the **MERN Stack** and writing **clean, maintainable, and elegant code**.  
+⚡ Fascinated by performance optimization, UX flow, and creative problem-solving.  
+🎬 Also love producing **educational content for kids** — coding meets creativity!  
+💡 *“Every line of code is a chance to create impact.”*  
 
 ---
 
-### 💼 Tech Arsenal  
+### 🧰 Tech Universe  
 
-#### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap&theme=dark" />
-</p>
-
-#### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
-</p>
-
-#### 🗄️ Database & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,gcp&theme=dark" />
-</p>
-
-#### 🧰 Dev Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,ts,tailwind,bootstrap,git,github,vscode,linux,gcp,postman&theme=light" />
 </p>
 
 ---
 
-### ⚡ GitHub Insights  
+### 🚀 GitHub Intelligence  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anand95733&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=FFD700" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand95733&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand95733&theme=omni&hide_border=true&background=0D1117&ring=F72585&fire=F72585" height="165" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Anand95733&theme=discord&column=6&margin-w=10&margin-h=10&no-frame=true" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anand95733&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand95733&layout=compact&theme=midnight-purple&hide_border=true" height="170" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand95733&theme=midnight-purple&hide_border=true" height="165" />
+
+</div>
 
 ---
 
-### 🔥 Activity Overview  
+### 🌌 Activity Universe  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anand95733&bg_color=0D1117&color=F72585&line=FF5EDF&point=F72585&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anand95733&theme=github-compact&area=true&hide_border=true&color=E8A2E2&line=E8A2E2&point=E8A2E2&bg_color=0D1117" width="95%"/>
 </p>
 
 ---
@@ -72,17 +58,21 @@
 ### 🌐 Let's Connect  
 
 <p align="center">
-  <a href="mailto:goudanand19@gmail.com"><img src="https://img.shields.io/badge/Email-FF5EDF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anand-goud-8a6009293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Anand95733"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:goudanand19@gmail.com"><img src="https://img.shields.io/badge/Gmail-FB3640?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anand-goud-8a6009293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Anand95733"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<h3 align="center">
-  🌈 “Building digital bridges with creativity, precision, and purpose.” 🌈
-</h3>
+### 🪄 Aesthetic Touch  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5EDF&height=100&section=footer"/>
+  <img src="https://github.com/Anand95733/Anand95733/blob/main/assets/glowline.gif" width="80%" alt="glow line"/>
+</p>
+
+<h3 align="center">✨ “Turning caffeine into creativity and code into impact.” ✨</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7209B7&height=100&section=footer"/>
 </p>
